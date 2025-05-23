@@ -102,3 +102,7 @@ for (let i = arr.length-1; i > 0; i--) {
 }
 arr[0] = temp;
 console.log(arr);
+
+// git remote add origin https://github.com/adnan2510/DSA-In-JavaScript.git
+// git branch -M main
+// git push -u origin main
